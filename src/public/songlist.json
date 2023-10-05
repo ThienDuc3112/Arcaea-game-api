@@ -1,0 +1,2534 @@
+[
+  {
+    "id": "sayonarahatsukoi",
+    "title": {
+      "en": "Sayonara Hatsukoi"
+    },
+    "artist": "REDSHiFT"
+  },
+  {
+    "id": "lostcivilization",
+    "title": {
+      "en": "Lost Civilization"
+    },
+    "artist": "Laur vs CK"
+  },
+  {
+    "id": "goodtek",
+    "title": {
+      "en": "GOODTEK (Arcaea Edit)"
+    },
+    "artist": "EBIMAYO"
+  },
+  {
+    "id": "viyella",
+    "title": {
+      "en": "cry of viyella"
+    },
+    "artist": "Laur"
+  },
+  {
+    "id": "rise",
+    "title": {
+      "en": "Rise"
+    },
+    "artist": "Combatplayer"
+  },
+  {
+    "id": "lucifer",
+    "title": {
+      "en": "Lucifer"
+    },
+    "artist": "chitose"
+  },
+  {
+    "id": "fairytale",
+    "title": {
+      "en": "Fairytale"
+    },
+    "artist": "chitose"
+  },
+  {
+    "id": "hearditsaid",
+    "title": {
+      "en": "I've heard it said"
+    },
+    "artist": "Combatplayer"
+  },
+  {
+    "id": "babaroque",
+    "title": {
+      "en": "Babaroque"
+    },
+    "artist": "cYsmix"
+  },
+  {
+    "id": "memoryfactory",
+    "title": {
+      "en": "memoryfactory.lzh"
+    },
+    "artist": "Frums"
+  },
+  {
+    "id": "snowwhite",
+    "title": {
+      "en": "Snow White"
+    },
+    "artist": "Puru"
+  },
+  {
+    "id": "relentless",
+    "title": {
+      "en": "Relentless"
+    },
+    "artist": "Akira Complex"
+  },
+  {
+    "id": "shadesoflight",
+    "title": {
+      "en": "Shades of Light in a Transcendent Realm"
+    },
+    "artist": "ak+q"
+  },
+  {
+    "id": "vexaria",
+    "title": {
+      "en": "Vexaria"
+    },
+    "artist": "ak+q"
+  },
+  {
+    "id": "essenceoftwilight",
+    "title": {
+      "en": "Essence of Twilight"
+    },
+    "artist": "ak+q"
+  },
+  {
+    "id": "qualia",
+    "title": {
+      "en": "qualia -ideaesthesia-"
+    },
+    "artist": "nitro"
+  },
+  {
+    "id": "pragmatism",
+    "title": {
+      "en": "PRAGMATISM"
+    },
+    "artist": "Laur"
+  },
+  {
+    "id": "sheriruth",
+    "title": {
+      "en": "Sheriruth"
+    },
+    "artist": "Team Grimoire"
+  },
+  {
+    "id": "lumia",
+    "title": {
+      "en": "Lumia"
+    },
+    "artist": "sky_delta"
+  },
+  {
+    "id": "dement",
+    "title": {
+      "en": "Dement ~after legend~"
+    },
+    "artist": "Cosmograph"
+  },
+  {
+    "id": "dandelion",
+    "title": {
+      "en": "Dandelion"
+    },
+    "artist": "Farhan"
+  },
+  {
+    "id": "anokumene",
+    "title": {
+      "en": "Anökumene",
+      "ko": "Anokumene",
+      "zh-Hant": "Anokumene",
+      "zh-Hans": "Anokumene"
+    },
+    "artist": "Jun Kuroda"
+  },
+  {
+    "id": "infinityheaven",
+    "title": {
+      "en": "Infinity Heaven"
+    },
+    "artist": "HyuN"
+  },
+  {
+    "id": "partyvinyl",
+    "title": {
+      "en": "Party Vinyl"
+    },
+    "artist": "モリモリあつし"
+  },
+  {
+    "id": "flashback",
+    "title": {
+      "en": "Flashback"
+    },
+    "artist": "ARForest"
+  },
+  {
+    "id": "flyburg",
+    "title": {
+      "en": "Flyburg and Endroll",
+      "ja": "フライブルクとエンドロウル"
+    },
+    "artist": "アリスシャッハと魔法の楽団"
+  },
+  {
+    "id": "nirvluce",
+    "title": {
+      "en": "Nirv lucE"
+    },
+    "artist": "しーけー"
+  },
+  {
+    "id": "paradise",
+    "title": {
+      "en": "Paradise"
+    },
+    "artist": "Sound Souler"
+  },
+  {
+    "id": "brandnewworld",
+    "title": {
+      "en": "Brand new world"
+    },
+    "artist": "U-ske"
+  },
+  {
+    "id": "dataerror",
+    "title": {
+      "en": "DataErr0r"
+    },
+    "artist": "Cosmograph"
+  },
+  {
+    "id": "crosssoul",
+    "title": {
+      "en": "CROSS†SOUL"
+    },
+    "artist": "HyuN feat. Syepias"
+  },
+  {
+    "id": "yourvoiceso",
+    "title": {
+      "en": "Your voice so... feat. Such"
+    },
+    "artist": "PSYQUI"
+  },
+  {
+    "id": "chronostasis",
+    "title": {
+      "en": "Chronostasis"
+    },
+    "artist": "黒皇帝"
+  },
+  {
+    "id": "kanagawa",
+    "title": {
+      "en": "Kanagawa Cyber Culvert",
+      "ja": "神奈川電脳暗渠"
+    },
+    "artist": "南ゆに"
+  },
+  {
+    "id": "moonlightofsandcastle",
+    "title": {
+      "en": "Moonlight of Sand Castle"
+    },
+    "artist": "旅人E"
+  },
+  {
+    "id": "reconstruction",
+    "title": {
+      "en": "REconstruction"
+    },
+    "artist": "Ryazan"
+  },
+  {
+    "id": "evoltex",
+    "title": {
+      "en": "Evoltex (poppi'n mix)"
+    },
+    "artist": "Arch vs n3pu"
+  },
+  {
+    "id": "oracle",
+    "title": {
+      "en": "Oracle"
+    },
+    "artist": "TQ☆"
+  },
+  {
+    "id": "aterlbus",
+    "title": {
+      "en": "αterlβus",
+      "zh-Hant": "aterlbus",
+      "zh-Hans": "aterlbus"
+    },
+    "artist": "Aoi"
+  },
+  {
+    "id": "clotho",
+    "title": {
+      "en": "Clotho and the stargazer",
+      "ja": "クロートーと星の観測者"
+    },
+    "artist": "しーけー"
+  },
+  {
+    "id": "impurebird",
+    "title": {
+      "en": "Impure Bird",
+      "ja": "不浄な白い鳥"
+    },
+    "artist": "MIssionary"
+  },
+  {
+    "id": "ignotus",
+    "title": {
+      "en": "Ignotus"
+    },
+    "artist": "ak+q"
+  },
+  {
+    "id": "lethaeus",
+    "title": {
+      "en": "Lethaeus"
+    },
+    "artist": "Silentroom"
+  },
+  {
+    "id": "romancewars",
+    "title": {
+      "en": "Romance Wars",
+      "ja": "vsキミ戦争"
+    },
+    "artist": "U-ske (feat. lueur)"
+  },
+  {
+    "id": "blossoms",
+    "title": {
+      "en": "Blossoms"
+    },
+    "artist": "T2Kazuya"
+  },
+  {
+    "id": "moonheart",
+    "title": {
+      "en": "Moonheart"
+    },
+    "artist": "翡乃イスカ"
+  },
+  {
+    "id": "genesis",
+    "title": {
+      "en": "Genesis"
+    },
+    "artist": "Iris"
+  },
+  {
+    "id": "harutopia",
+    "title": {
+      "ja": "ハルトピア ~Utopia of Spring~",
+      "en": "Harutopia ~Utopia of Spring~"
+    },
+    "artist": "A-zu-ra"
+  },
+  {
+    "id": "auxesia",
+    "title": {
+      "en": "Auxesia"
+    },
+    "artist": "ginkiha"
+  },
+  {
+    "id": "rabbitintheblackroom",
+    "title": {
+      "en": "Rabbit In The Black Room"
+    },
+    "artist": "Rabbit House"
+  },
+  {
+    "id": "modelista",
+    "title": {
+      "en": "Modelista"
+    },
+    "artist": "HiTECH NINJA"
+  },
+  {
+    "id": "soundwitch",
+    "title": {
+      "en": "SOUNDWiTCH"
+    },
+    "artist": "HATE"
+  },
+  {
+    "id": "trappola",
+    "title": {
+      "en": "trappola bewitching",
+      "ja": "妖艶魔女 -trappola bewitching-"
+    },
+    "artist": "gmtn."
+  },
+  {
+    "id": "iconoclast",
+    "title": {
+      "en": "Iconoclast"
+    },
+    "artist": "Yamajet"
+  },
+  {
+    "id": "conflict",
+    "title": {
+      "en": "conflict"
+    },
+    "artist": "siromaru + cranky"
+  },
+  {
+    "id": "axiumcrisis",
+    "title": {
+      "en": "Axium Crisis"
+    },
+    "artist": "ak+q"
+  },
+  {
+    "id": "grievouslady",
+    "title": {
+      "en": "Grievous Lady"
+    },
+    "artist": "Team Grimoire vs Laur"
+  },
+  {
+    "id": "dreaminattraction",
+    "title": {
+      "en": "Dreamin' Attraction!!"
+    },
+    "artist": "翡乃イスカ"
+  },
+  {
+    "id": "redandblue",
+    "title": {
+      "en": "Red and Blue"
+    },
+    "artist": "Silentroom"
+  },
+  {
+    "id": "onelastdrive",
+    "title": {
+      "en": "One Last Drive"
+    },
+    "artist": "REDSHiFT"
+  },
+  {
+    "id": "surrender",
+    "title": {
+      "en": "Surrender"
+    },
+    "artist": "void"
+  },
+  {
+    "id": "yozakurafubuki",
+    "title": {
+      "en": "Yosakura Fubuki",
+      "ja": "夜桜吹雪"
+    },
+    "artist": "A.SAKA"
+  },
+  {
+    "id": "cyanine",
+    "title": {
+      "en": "cyanine"
+    },
+    "artist": "jioyi"
+  },
+  {
+    "id": "dreamgoeson",
+    "title": {
+      "en": "Dream goes on"
+    },
+    "artist": "Tiny Minim"
+  },
+  {
+    "id": "journey",
+    "title": {
+      "en": "Journey"
+    },
+    "artist": "ARForest"
+  },
+  {
+    "id": "specta",
+    "title": {
+      "en": "Specta"
+    },
+    "artist": "Junk"
+  },
+  {
+    "id": "quon",
+    "title": {
+      "en": "Quon"
+    },
+    "artist": "Feryquitous"
+  },
+  {
+    "id": "syro",
+    "title": {
+      "en": "Syro"
+    },
+    "artist": "Mitomoro"
+  },
+  {
+    "id": "reinvent",
+    "title": {
+      "en": "Reinvent"
+    },
+    "artist": "Sound Souler"
+  },
+  {
+    "id": "silentrush",
+    "title": {
+      "en": "Silent Rush"
+    },
+    "artist": "Soleily"
+  },
+  {
+    "id": "singularity",
+    "title": {
+      "en": "Singularity"
+    },
+    "artist": "ETIA."
+  },
+  {
+    "id": "memoryforest",
+    "title": {
+      "en": "Memory Forest"
+    },
+    "artist": "ETIA."
+  },
+  {
+    "id": "strongholds",
+    "title": {
+      "en": "Strongholds"
+    },
+    "artist": "Yooh"
+  },
+  {
+    "id": "nexttoyou",
+    "title": {
+      "en": "next to you"
+    },
+    "artist": "uma feat. 橘花音"
+  },
+  {
+    "id": "metallicpunisher",
+    "title": {
+      "en": "Metallic Punisher"
+    },
+    "artist": "INNOCENT NOIZE"
+  },
+  {
+    "id": "blaster",
+    "title": {
+      "en": "Blaster"
+    },
+    "artist": "Massive New Krew"
+  },
+  {
+    "id": "guardina",
+    "title": {
+      "en": "γuarδina",
+      "kr": "guardina",
+      "zh-Hant": "guardina",
+      "zh-Hans": "guardina"
+    },
+    "artist": "Aoi"
+  },
+  {
+    "id": "carminescythe",
+    "title": {
+      "en": "carmine:scythe"
+    },
+    "artist": "かゆき"
+  },
+  {
+    "id": "bethere",
+    "title": {
+      "en": "Be There"
+    },
+    "artist": "PSYQUI"
+  },
+  {
+    "id": "cyberneciacatharsis",
+    "title": {
+      "en": "Cybernecia Catharsis"
+    },
+    "artist": "Tanchiky"
+  },
+  {
+    "id": "callmyname",
+    "title": {
+      "en": "Call My Name feat. Yukacco"
+    },
+    "artist": "Mameyudoufu"
+  },
+  {
+    "id": "inkarusi",
+    "title": {
+      "en": "inkar-usi"
+    },
+    "artist": "DIA"
+  },
+  {
+    "id": "mazenine",
+    "title": {
+      "en": "Maze No.9",
+      "ja": "九番目の迷路"
+    },
+    "artist": "アリスシャッハと魔法の楽団"
+  },
+  {
+    "id": "themessage",
+    "title": {
+      "en": "The Message"
+    },
+    "artist": "Jun Kuroda"
+  },
+  {
+    "id": "sulfur",
+    "title": {
+      "en": "Sulfur"
+    },
+    "artist": "ぺのれり"
+  },
+  {
+    "id": "halcyon",
+    "title": {
+      "en": "Halcyon"
+    },
+    "artist": "xi"
+  },
+  {
+    "id": "etherstrike",
+    "title": {
+      "en": "Ether Strike"
+    },
+    "artist": "Akira Complex"
+  },
+  {
+    "id": "fractureray",
+    "title": {
+      "en": "Fracture Ray"
+    },
+    "artist": "Sakuzyo"
+  },
+  {
+    "id": "suomi",
+    "title": {
+      "en": "Suomi"
+    },
+    "artist": "Aire"
+  },
+  {
+    "id": "bookmaker",
+    "title": {
+      "en": "Bookmaker (2D Version)"
+    },
+    "artist": "Kobaryo"
+  },
+  {
+    "id": "darakunosono",
+    "title": {
+      "ja": "堕楽の園",
+      "en": "Illegal Paradise"
+    },
+    "artist": "gmtn. (witch's slave)"
+  },
+  {
+    "id": "dropdead",
+    "title": {
+      "en": "dropdead"
+    },
+    "artist": "Frums"
+  },
+  {
+    "id": "fallensquare",
+    "title": {
+      "en": "Fallensquare"
+    },
+    "artist": "Silentroom"
+  },
+  {
+    "id": "nhelv",
+    "title": {
+      "en": "Nhelv"
+    },
+    "artist": "Silentroom"
+  },
+  {
+    "id": "espebranch",
+    "title": {
+      "ja": "白道、多希望羊と信じありく。",
+      "en": "LunarOrbit -believe in the Espebranch road-"
+    },
+    "artist": "Apo11o program ft. 大瀬良あい"
+  },
+  {
+    "id": "purgatorium",
+    "title": {
+      "en": "Purgatorium"
+    },
+    "artist": "お月さま交響曲"
+  },
+  {
+    "id": "hikari",
+    "title": {
+      "ja": "光",
+      "en": "Hikari"
+    },
+    "artist": "THB"
+  },
+  {
+    "id": "stager",
+    "title": {
+      "en": "STAGER (ALL STAGE CLEAR)"
+    },
+    "artist": "Ras"
+  },
+  {
+    "id": "hallofmirrors",
+    "title": {
+      "en": "Hall of Mirrors"
+    },
+    "artist": "Sta"
+  },
+  {
+    "id": "linearaccelerator",
+    "title": {
+      "en": "Linear Accelerator"
+    },
+    "artist": "THE SHAFT"
+  },
+  {
+    "id": "tiferet",
+    "title": {
+      "en": "Tiferet"
+    },
+    "artist": "xi + Sta"
+  },
+  {
+    "id": "alexandrite",
+    "title": {
+      "en": "Alexandrite"
+    },
+    "artist": "WAiKURO"
+  },
+  {
+    "id": "rugie",
+    "title": {
+      "en": "Rugie"
+    },
+    "artist": "Feryquitous feat.Sennzai"
+  },
+  {
+    "id": "astraltale",
+    "title": {
+      "en": "Astral tale"
+    },
+    "artist": "Noah"
+  },
+  {
+    "id": "phantasia",
+    "title": {
+      "en": "Phantasia"
+    },
+    "artist": "Yunosuke"
+  },
+  {
+    "id": "empireofwinter",
+    "title": {
+      "en": "Empire of Winter"
+    },
+    "artist": "Street"
+  },
+  {
+    "id": "merlin",
+    "title": {
+      "en": "MERLIN"
+    },
+    "artist": "REDALiCE"
+  },
+  {
+    "id": "dxfullmetal",
+    "title": {
+      "ja": "DX超性能フルメタル少女",
+      "en": "DX Choseinou Full Metal Shojo"
+    },
+    "artist": "IOSYS TRAX (uno with.ちよこ)"
+  },
+  {
+    "id": "omakeno",
+    "title": {
+      "en": "OMAKENO Stroke"
+    },
+    "artist": "t+pazolite"
+  },
+  {
+    "id": "scarletlance",
+    "title": {
+      "en": "Scarlet Lance"
+    },
+    "artist": "MASAKI (ZUNTATA)"
+  },
+  {
+    "id": "ouroboros",
+    "title": {
+      "en": "ouroboros -twin stroke of the end-"
+    },
+    "artist": "Cranky VS MASAKI"
+  },
+  {
+    "id": "libertas",
+    "title": {
+      "en": "Libertas"
+    },
+    "artist": "Zekk"
+  },
+  {
+    "id": "solitarydream",
+    "title": {
+      "en": "Solitary Dream",
+      "ja": "虚空の夢"
+    },
+    "artist": "ak+q feat. Sennzai"
+  },
+  {
+    "id": "antithese",
+    "title": {
+      "en": "Antithese"
+    },
+    "artist": "Blacklolita"
+  },
+  {
+    "id": "corruption",
+    "title": {
+      "en": "Corruption"
+    },
+    "artist": "3R2"
+  },
+  {
+    "id": "blackterritory",
+    "title": {
+      "en": "Black Territory"
+    },
+    "artist": "DJ Myosuke"
+  },
+  {
+    "id": "viciousheroism",
+    "title": {
+      "en": "Vicious Heroism"
+    },
+    "artist": "Kobaryo"
+  },
+  {
+    "id": "cyaegha",
+    "title": {
+      "en": "Cyaegha"
+    },
+    "artist": "USAO"
+  },
+  {
+    "id": "revixy",
+    "title": {
+      "en": "ReviXy"
+    },
+    "artist": "ikaruga_nex"
+  },
+  {
+    "id": "grimheart",
+    "title": {
+      "en": "Grimheart"
+    },
+    "artist": "Puru"
+  },
+  {
+    "id": "vector",
+    "title": {
+      "en": "VECTOЯ"
+    },
+    "artist": "WHITEFISTS"
+  },
+  {
+    "id": "supernova",
+    "title": {
+      "en": "SUPERNOVA"
+    },
+    "artist": "BACO"
+  },
+  {
+    "id": "dottodot",
+    "title": {
+      "en": "Dot to Dot feat. shully"
+    },
+    "artist": "Mameyudoufu"
+  },
+  {
+    "id": "garakuta",
+    "title": {
+      "en": "Garakuta Doll Play"
+    },
+    "artist": "t+pazolite"
+  },
+  {
+    "id": "ikazuchi",
+    "title": {
+      "en": "Ikazuchi",
+      "ja": "怒槌"
+    },
+    "artist": "光吉猛修"
+  },
+  {
+    "id": "worldvanquisher",
+    "title": {
+      "en": "World Vanquisher"
+    },
+    "artist": "void (Mournfinale)"
+  },
+  {
+    "id": "dreadnought",
+    "title": {
+      "en": "Dreadnought"
+    },
+    "artist": "Mastermind (xi + nora2r)"
+  },
+  {
+    "id": "particlearts",
+    "title": {
+      "en": "Particle Arts"
+    },
+    "artist": "Virtual Self"
+  },
+  {
+    "id": "vindication",
+    "title": {
+      "en": "Vindication"
+    },
+    "artist": "Laur"
+  },
+  {
+    "id": "heavensdoor",
+    "title": {
+      "en": "Heavensdoor"
+    },
+    "artist": "LeaF"
+  },
+  {
+    "id": "ringedgenesis",
+    "title": {
+      "en": "Ringed Genesis"
+    },
+    "artist": "Edelritter"
+  },
+  {
+    "id": "chelsea",
+    "title": {
+      "en": "Chelsea"
+    },
+    "artist": "7mai"
+  },
+  {
+    "id": "aiueoon",
+    "title": {
+      "en": "AI[UE]OON"
+    },
+    "artist": "MYUKKE."
+  },
+  {
+    "id": "melodyoflove",
+    "title": {
+      "en": "A Wandering Melody of Love",
+      "ja": "迷える音色は恋の唄"
+    },
+    "artist": "からとPαnchii少年 feat.はるの"
+  },
+  {
+    "id": "tiemedowngently",
+    "title": {
+      "en": "Tie me down gently"
+    },
+    "artist": "溝口ゆうま feat. 大瀬良あい"
+  },
+  {
+    "id": "valhallazero",
+    "title": {
+      "en": "Valhalla:0"
+    },
+    "artist": "Juggernaut."
+  },
+  {
+    "id": "mirzam",
+    "title": {
+      "en": "Mirzam"
+    },
+    "artist": "Aoi vs. siqlo"
+  },
+  {
+    "id": "diode",
+    "title": {
+      "en": "Diode"
+    },
+    "artist": "Kolaa"
+  },
+  {
+    "id": "freefall",
+    "title": {
+      "en": "FREEF4LL"
+    },
+    "artist": "YUKIYANAGI"
+  },
+  {
+    "id": "gloryroad",
+    "title": {
+      "en": "GLORY：ROAD"
+    },
+    "artist": "uma vs. モリモリあつし"
+  },
+  {
+    "id": "monochromeprincess",
+    "title": {
+      "en": "Monochrome Princess"
+    },
+    "artist": "polysha"
+  },
+  {
+    "id": "heavenlycaress",
+    "title": {
+      "en": "Heavenly caress"
+    },
+    "artist": "Noah"
+  },
+  {
+    "id": "senkyou",
+    "title": {
+      "en": "Senkyou"
+    },
+    "artist": "MYTK"
+  },
+  {
+    "id": "filament",
+    "title": {
+      "en": "Filament"
+    },
+    "artist": "Puru"
+  },
+  {
+    "id": "avantraze",
+    "title": {
+      "en": "Avant Raze"
+    },
+    "artist": "Sampling Masters MEGA"
+  },
+  {
+    "id": "battlenoone",
+    "title": {
+      "en": "BATTLE NO.1"
+    },
+    "artist": "TANO*C Sound Team"
+  },
+  {
+    "id": "laqryma",
+    "title": {
+      "en": "La'qryma of the Wasteland"
+    },
+    "artist": "DJ Noriken"
+  },
+  {
+    "id": "einherjar",
+    "title": {
+      "en": "Einherjar Joker"
+    },
+    "artist": "DJ Genki vs Gram"
+  },
+  {
+    "id": "izana",
+    "title": {
+      "en": "IZANA"
+    },
+    "artist": "t+pazolite vs P*Light"
+  },
+  {
+    "id": "saikyostronger",
+    "title": {
+      "en": "SAIKYO STRONGER",
+      "ja": "最強STRONGER"
+    },
+    "artist": "REDALiCE vs USAO"
+  },
+  {
+    "id": "worldexecuteme",
+    "title": {
+      "en": "world.execute(me);"
+    },
+    "artist": "Mili"
+  },
+  {
+    "id": "blrink",
+    "title": {
+      "en": "BLRINK"
+    },
+    "artist": "Sta"
+  },
+  {
+    "id": "oblivia",
+    "title": {
+      "en": "Oblivia"
+    },
+    "artist": "Saiph"
+  },
+  {
+    "id": "amygdata",
+    "title": {
+      "en": "amygdata"
+    },
+    "artist": "nitro"
+  },
+  {
+    "id": "corpssansorganes",
+    "title": {
+      "en": "corps-sans-organes"
+    },
+    "artist": "cybermiso"
+  },
+  {
+    "id": "equilibrium",
+    "title": {
+      "en": "Equilibrium"
+    },
+    "artist": "Maozon"
+  },
+  {
+    "id": "antagonism",
+    "title": {
+      "en": "Antagonism"
+    },
+    "artist": "Yooh vs. siromaru"
+  },
+  {
+    "id": "lostdesire",
+    "title": {
+      "en": "Lost Desire"
+    },
+    "artist": "Powerless feat. Sennzai"
+  },
+  {
+    "id": "dantalion",
+    "title": {
+      "en": "Dantalion"
+    },
+    "artist": "Team Grimoire"
+  },
+  {
+    "id": "ifi",
+    "title": {
+      "en": "#1f1e33"
+    },
+    "artist": "かめりあ(EDP)"
+  },
+  {
+    "id": "tempestissimo",
+    "title": {
+      "en": "Tempestissimo"
+    },
+    "artist": "t+pazolite"
+  },
+  {
+    "id": "arcahv",
+    "title": {
+      "en": "Arcahv"
+    },
+    "artist": "Feryquitous"
+  },
+  {
+    "id": "altale",
+    "title": {
+      "en": "Altale"
+    },
+    "artist": "Sakuzyo"
+  },
+  {
+    "id": "givemeanightmare",
+    "title": {
+      "en": "Give Me a Nightmare"
+    },
+    "artist": "アリスシャッハと魔法の楽団"
+  },
+  {
+    "id": "blacklotus",
+    "title": {
+      "en": "Black Lotus"
+    },
+    "artist": "wa."
+  },
+  {
+    "id": "gekka",
+    "title": {
+      "en": "Gekka (Short Version)"
+    },
+    "artist": "Nhato"
+  },
+  {
+    "id": "vividtheory",
+    "title": {
+      "en": "Vivid Theory"
+    },
+    "artist": "ak+q"
+  },
+  {
+    "id": "onefr",
+    "title": {
+      "en": "1F√"
+    },
+    "artist": "WHITEFISTS"
+  },
+  {
+    "id": "scarletcage",
+    "title": {
+      "en": "Scarlet Cage"
+    },
+    "artist": "Daisuke Kurosawa"
+  },
+  {
+    "id": "faintlight",
+    "title": {
+      "en": "Faint Light (Arcaea Edit)"
+    },
+    "artist": "Taishi"
+  },
+  {
+    "id": "feelssoright",
+    "title": {
+      "en": "Feels So Right feat. Renko"
+    },
+    "artist": "Mysteka"
+  },
+  {
+    "id": "teriqma",
+    "title": {
+      "en": "Teriqma"
+    },
+    "artist": "owl*tree"
+  },
+  {
+    "id": "mahoroba",
+    "title": {
+      "en": "MAHOROBA"
+    },
+    "artist": "Zekk"
+  },
+  {
+    "id": "badtek",
+    "title": {
+      "en": "BADTEK"
+    },
+    "artist": "EBIMAYO"
+  },
+  {
+    "id": "maliciousmischance",
+    "title": {
+      "en": "Malicious Mischance"
+    },
+    "artist": "s-don"
+  },
+  {
+    "id": "gothiveofra",
+    "title": {
+      "en": "Got hive of Ra"
+    },
+    "artist": "E.G.G."
+  },
+  {
+    "id": "buchigireberserker",
+    "title": {
+      "en": "BUCHiGiRE Berserker"
+    },
+    "artist": "REDALiCE vs MASAKI"
+  },
+  {
+    "id": "galaxyfriends",
+    "title": {
+      "en": "Galaxy Friends"
+    },
+    "artist": "Kobaryo"
+  },
+  {
+    "id": "crossover",
+    "title": {
+      "en": "CROSS†OVER"
+    },
+    "artist": "HyuN feat. LyuU"
+  },
+  {
+    "id": "xeraphinite",
+    "title": {
+      "en": "Xeraphinite"
+    },
+    "artist": "BlackY"
+  },
+  {
+    "id": "lapis",
+    "title": {
+      "en": "Lapis"
+    },
+    "artist": "SHIKI"
+  },
+  {
+    "id": "xanatos",
+    "title": {
+      "en": "Xanatos"
+    },
+    "artist": "Tatsh"
+  },
+  {
+    "id": "purpleverse",
+    "title": {
+      "en": "Purple Verse"
+    },
+    "artist": "Hommarju"
+  },
+  {
+    "id": "alicealamode",
+    "title": {
+      "en": "Alice à la mode",
+      "ko": "Alice a la mode"
+    },
+    "artist": "Masanori Akita"
+  },
+  {
+    "id": "eccentrictale",
+    "title": {
+      "en": "Eccentric Tale"
+    },
+    "artist": "Yamajet"
+  },
+  {
+    "id": "alicessuitcase",
+    "title": {
+      "en": "Alice's Suitcase"
+    },
+    "artist": "Endorfin."
+  },
+  {
+    "id": "jump",
+    "title": {
+      "en": "Jump"
+    },
+    "artist": "Rasmus Faber"
+  },
+  {
+    "id": "felis",
+    "title": {
+      "en": "Felis"
+    },
+    "artist": "M2U"
+  },
+  {
+    "id": "besideyou",
+    "title": {
+      "en": "Beside You"
+    },
+    "artist": "江口孝宏"
+  },
+  {
+    "id": "heartjackin",
+    "title": {
+      "en": "Heart Jackin'"
+    },
+    "artist": "Yu_Asahina"
+  },
+  {
+    "id": "toaliceliddell",
+    "title": {
+      "en": "To: Alice Liddell",
+      "ja": "アリス・リデルに捧ぐ"
+    },
+    "artist": "モリモリあつし"
+  },
+  {
+    "id": "lazyaddiction",
+    "title": {
+      "en": "Lazy Addiction"
+    },
+    "artist": "sky_delta"
+  },
+  {
+    "id": "dazzlehop",
+    "title": {
+      "en": "Dazzle hop"
+    },
+    "artist": "Sampling Masters MEGA"
+  },
+  {
+    "id": "viyellastears",
+    "title": {
+      "en": "Viyella's Tears"
+    },
+    "artist": "Laur"
+  },
+  {
+    "id": "omegafour",
+    "title": {
+      "en": "ω4",
+      "zh-Hant": "w4",
+      "zh-Hans": "w4"
+    },
+    "artist": "穴山大輔 VS 光吉猛修 VS Kai"
+  },
+  {
+    "id": "aprilshowers",
+    "title": {
+      "en": "April showers",
+      "ja": "四月の雨"
+    },
+    "artist": "cubesato"
+  },
+  {
+    "id": "seventhsense",
+    "title": {
+      "en": "7thSense"
+    },
+    "artist": "削除"
+  },
+  {
+    "id": "oshamascramble",
+    "title": {
+      "en": "Oshama Scramble!"
+    },
+    "artist": "t+pazolite"
+  },
+  {
+    "id": "amazingmightyyyy",
+    "title": {
+      "en": "AMAZING MIGHTYYYY!!!!"
+    },
+    "artist": "WAiKURO"
+  },
+  {
+    "id": "climax",
+    "title": {
+      "en": "Climax"
+    },
+    "artist": "USAO"
+  },
+  {
+    "id": "lastcelebration",
+    "title": {
+      "en": "Last Celebration"
+    },
+    "artist": "Laur vs CK"
+  },
+  {
+    "id": "gou",
+    "title": {
+      "en": "Misdeed -la bonté de Dieu et l'origine du mal-",
+      "ja": "業 -善なる神とこの世の悪について-"
+    },
+    "artist": "光吉猛修 VS 穴山大輔"
+  },
+  {
+    "id": "glow",
+    "title": {
+      "en": "Glow"
+    },
+    "artist": "SPACELECTRO"
+  },
+  {
+    "id": "attraqtia",
+    "title": {
+      "en": "AttraqtiA"
+    },
+    "artist": "かめりあ"
+  },
+  {
+    "id": "enchantedlove",
+    "title": {
+      "en": "enchanted love"
+    },
+    "artist": "linear ring"
+  },
+  {
+    "id": "take",
+    "title": {
+      "en": "Bamboo",
+      "ja": "竹"
+    },
+    "artist": "立秋 feat.ちょこ"
+  },
+  {
+    "id": "gimmedablood",
+    "title": {
+      "en": "GIMME DA BLOOD"
+    },
+    "artist": "C-Show"
+  },
+  {
+    "id": "bassline",
+    "title": {
+      "en": "Can I Friend You on Bassbook? Lol",
+      "ja": "ベースラインやってる？ｗ"
+    },
+    "artist": "かめりあ feat. ななひら"
+  },
+  {
+    "id": "lifeispiano",
+    "title": {
+      "en": "Life is PIANO"
+    },
+    "artist": "Junk"
+  },
+  {
+    "id": "paperwitch",
+    "title": {
+      "en": "Paper Witch"
+    },
+    "artist": "Yu-dachi"
+  },
+  {
+    "id": "crystalgravity",
+    "title": {
+      "en": "Crystal Gravity"
+    },
+    "artist": "Tanchiky vs. siromaru"
+  },
+  {
+    "id": "farawaylight",
+    "title": {
+      "en": "Far Away Light"
+    },
+    "artist": "technoplanet feat. はるの & 黒沢ダイスケ"
+  },
+  {
+    "id": "loschen",
+    "title": {
+      "en": "Löschen"
+    },
+    "artist": "BlackY feat. Risa Yuzuki"
+  },
+  {
+    "id": "aegleseeker",
+    "title": {
+      "en": "Aegleseeker"
+    },
+    "artist": "Silentroom vs Frums"
+  },
+  {
+    "id": "coastalhighway",
+    "title": {
+      "en": "Coastal Highway"
+    },
+    "artist": "Glitch Droids"
+  },
+  {
+    "id": "odysseia",
+    "title": {
+      "en": "ΟΔΥΣΣΕΙΑ"
+    },
+    "artist": "Sober Bear"
+  },
+  {
+    "id": "overwhelm",
+    "title": {
+      "en": "Overwhelm"
+    },
+    "artist": "xi"
+  },
+  {
+    "id": "vandalism",
+    "title": {
+      "en": "Vandalism"
+    },
+    "artist": "Ashrount"
+  },
+  {
+    "id": "turbocharger",
+    "title": {
+      "en": "Turbocharger"
+    },
+    "artist": "A/I"
+  },
+  {
+    "id": "theultimacy",
+    "title": {
+      "en": "THE ULTIMACY"
+    },
+    "artist": "aran vs Massive New Krew"
+  },
+  {
+    "id": "rekkaresonance",
+    "title": {
+      "en": "REKKA RESONANCE",
+      "ja": "烈華RESONANCE"
+    },
+    "artist": "REDALiCE vs Kobaryo"
+  },
+  {
+    "id": "kyogenkigo",
+    "title": {
+      "en": "False Embellishment",
+      "ja": "狂言綺語"
+    },
+    "artist": "影虎。 & ikaruga_nex"
+  },
+  {
+    "id": "hivemind",
+    "title": {
+      "en": "HIVEMIND"
+    },
+    "artist": "かたぎり"
+  },
+  {
+    "id": "seclusion",
+    "title": {
+      "en": "Seclusion"
+    },
+    "artist": "Laur feat. Sennzai"
+  },
+  {
+    "id": "smallcloud",
+    "title": {
+      "en": "Small Cloud Sugar Candy"
+    },
+    "artist": "テヅカ x Aoi feat.桃雛なの"
+  },
+  {
+    "id": "alterale",
+    "title": {
+      "en": "AlterAle"
+    },
+    "artist": "Arik Kau Delay (アラ＆かゆき＆でり）"
+  },
+  {
+    "id": "divinelight",
+    "title": {
+      "en": "Divine Light of Myriad",
+      "ja": "光速神授説 - Divine Light of Myriad -"
+    },
+    "artist": "yoho"
+  },
+  {
+    "id": "mazymetroplex",
+    "title": {
+      "en": "Mazy Metroplex"
+    },
+    "artist": "aran"
+  },
+  {
+    "id": "quonwacca",
+    "title": {
+      "en": "Quon"
+    },
+    "artist": "DJ Noriken"
+  },
+  {
+    "id": "withu",
+    "title": {
+      "en": "with U"
+    },
+    "artist": "t+pazolite & Massive New Krew feat. リリィ(CV:青木志貴)"
+  },
+  {
+    "id": "genocider",
+    "title": {
+      "en": "GENOCIDER"
+    },
+    "artist": "DJ Myosuke"
+  },
+  {
+    "id": "letyoudivermx",
+    "title": {
+      "en": "Let you DIVE! (nitro rmx)"
+    },
+    "artist": "nitro (lowiro)"
+  },
+  {
+    "id": "sheriruthrmx",
+    "title": {
+      "en": "Sheriruth (Laur Remix)"
+    },
+    "artist": "Laur"
+  },
+  {
+    "id": "eveninginscarlet",
+    "title": {
+      "en": "Evening in Scarlet",
+      "ja": "緋纏いの宵"
+    },
+    "artist": "Freezer feat.妃苺"
+  },
+  {
+    "id": "bluecomet",
+    "title": {
+      "en": "blue comet"
+    },
+    "artist": "ああああ"
+  },
+  {
+    "id": "energysynergymatrix",
+    "title": {
+      "en": "ENERGY SYNERGY MATRIX"
+    },
+    "artist": "Tanchiky"
+  },
+  {
+    "id": "gengaozo",
+    "title": {
+      "en": "G e n g a o z o"
+    },
+    "artist": "-45"
+  },
+  {
+    "id": "goldenslaughterer",
+    "title": {
+      "en": "goldenslaughterer"
+    },
+    "artist": "zts"
+  },
+  {
+    "id": "lastendconductor",
+    "title": {
+      "en": "lastendconductor"
+    },
+    "artist": "zts"
+  },
+  {
+    "id": "redolentshape",
+    "title": {
+      "en": "Redolent Shape"
+    },
+    "artist": "Sanaas"
+  },
+  {
+    "id": "cosmica",
+    "title": {
+      "en": "Cosmica"
+    },
+    "artist": "Nhato"
+  },
+  {
+    "id": "ascent",
+    "title": {
+      "en": "Ascent"
+    },
+    "artist": "TANUKI"
+  },
+  {
+    "id": "livefastdieyoung",
+    "title": {
+      "en": "Live Fast Die Young"
+    },
+    "artist": "anubasu-anubasu"
+  },
+  {
+    "id": "summerfireworks",
+    "title": {
+      "en": "Summer Fireworks of Love",
+      "ja": "彩る夏の恋花火"
+    },
+    "artist": "karatoPαnchii feat.はるの"
+  },
+  {
+    "id": "firstsnow",
+    "title": {
+      "en": "First Snow"
+    },
+    "artist": "黒魔"
+  },
+  {
+    "id": "bluerose",
+    "title": {
+      "en": "Blue Rose"
+    },
+    "artist": "Cosmograph"
+  },
+  {
+    "id": "blockedlibrary",
+    "title": {
+      "en": "Blocked Library"
+    },
+    "artist": "影虎。"
+  },
+  {
+    "id": "neokosmo",
+    "title": {
+      "en": "nέο κόsmo",
+      "ko": "neo kosmo",
+      "zh-Hant": "neo kosmo",
+      "zh-Hans": "neo kosmo"
+    },
+    "artist": "ak+q × Street"
+  },
+  {
+    "id": "lightningscrew",
+    "title": {
+      "en": "Lightning Screw"
+    },
+    "artist": "HiTECH NINJA"
+  },
+  {
+    "id": "lightsofmuse",
+    "title": {
+      "en": "Lights of Muse"
+    },
+    "artist": "Ayatsugu_Otowa"
+  },
+  {
+    "id": "finalstep",
+    "title": {
+      "en": "Final Step!"
+    },
+    "artist": "Lime"
+  },
+  {
+    "id": "akinokagerou",
+    "title": {
+      "en": "Haze of Autumn",
+      "ja": "秋の陽炎"
+    },
+    "artist": "karatoPαnchii feat.はるの"
+  },
+  {
+    "id": "medusa",
+    "title": {
+      "en": "Medusa"
+    },
+    "artist": "HiTECH NINJA"
+  },
+  {
+    "id": "init",
+    "title": {
+      "en": "init()"
+    },
+    "artist": "kamome sano"
+  },
+  {
+    "id": "internetoverdose",
+    "title": {
+      "en": "INTERNET OVERDOSE"
+    },
+    "artist": "Aiobahn feat. KOTOKO"
+  },
+  {
+    "id": "sakurafubuki",
+    "title": {
+      "en": "Sakura Fubuki"
+    },
+    "artist": "Street"
+  },
+  {
+    "id": "nulctrl",
+    "title": {
+      "en": "NULCTRL"
+    },
+    "artist": "Silentroom"
+  },
+  {
+    "id": "macromod",
+    "title": {
+      "en": "Macrocosmic Modulation"
+    },
+    "artist": "JAKAZiD"
+  },
+  {
+    "id": "neowings",
+    "title": {
+      "en": "NEO WINGS"
+    },
+    "artist": "SOUND HOLIC feat. Nana Takahashi"
+  },
+  {
+    "id": "kissinglucifer",
+    "title": {
+      "en": "Kissing Lucifer"
+    },
+    "artist": "ETIA."
+  },
+  {
+    "id": "avril",
+    "title": {
+      "en": "Ävril -Flicka i krans-"
+    },
+    "artist": "Rigël Theatre"
+  },
+  {
+    "id": "aurgelmir",
+    "title": {
+      "en": "Aurgelmir"
+    },
+    "artist": "溝口ゆうま feat. 大瀬良あい"
+  },
+  {
+    "id": "headbonkache",
+    "title": {
+      "en": "Head BONK ache"
+    },
+    "artist": "saaa ft. MC iwata Bros."
+  },
+  {
+    "id": "ddd",
+    "title": {
+      "en": "DDD"
+    },
+    "artist": "はがね"
+  },
+  {
+    "id": "prism",
+    "title": {
+      "en": "Prism"
+    },
+    "artist": "bermei.inazawa ft. Chata"
+  },
+  {
+    "id": "protoflicker",
+    "title": {
+      "en": "Protoflicker"
+    },
+    "artist": "Silentroom"
+  },
+  {
+    "id": "stasis",
+    "title": {
+      "en": "Stasis"
+    },
+    "artist": "Maozon"
+  },
+  {
+    "id": "picopicotranslation",
+    "title": {
+      "en": "PICO-Pico-Translation!",
+      "ja": "ピコPico*とらんすれーしょんっ！"
+    },
+    "artist": "t+pazolite,ななひら,Cranky,Pico*"
+  },
+  {
+    "id": "nekonote",
+    "title": {
+      "en": "Dancin' on a Cat's Paw",
+      "ja": "ネコノテ・カリタガール"
+    },
+    "artist": "Ino(chronoize)"
+  },
+  {
+    "id": "mu",
+    "title": {
+      "en": "μ"
+    },
+    "artist": "Frums"
+  },
+  {
+    "id": "sanskia",
+    "title": {
+      "en": "san skia"
+    },
+    "artist": "ユアミトス"
+  },
+  {
+    "id": "altair",
+    "title": {
+      "en": "Altair (feat. *spiLa*)"
+    },
+    "artist": "kamome sano & you"
+  },
+  {
+    "id": "mukishitsu",
+    "title": {
+      "en": "Redraw the Colorless World",
+      "ja": "無機質世界に彩を"
+    },
+    "artist": "MisomyL"
+  },
+  {
+    "id": "trapcrow",
+    "title": {
+      "en": "Trap Crow"
+    },
+    "artist": "Puru"
+  },
+  {
+    "id": "pupa",
+    "title": {
+      "en": "PUPA"
+    },
+    "artist": "モリモリあつし"
+  },
+  {
+    "id": "defection",
+    "title": {
+      "en": "Defection"
+    },
+    "artist": "TeddyLoid feat. DELTA"
+  },
+  {
+    "id": "infinitestrife",
+    "title": {
+      "en": "Infinite Strife,"
+    },
+    "artist": "BlackYooh vs. siromaru"
+  },
+  {
+    "id": "worldender",
+    "title": {
+      "en": "World Ender",
+      "ja": "魔王"
+    },
+    "artist": "sasakure.UK × TJ.hangneil"
+  },
+  {
+    "id": "pentiment",
+    "title": {
+      "en": "Pentiment"
+    },
+    "artist": "Nothing But Requiem with Museo"
+  },
+  {
+    "id": "arcanaeden",
+    "title": {
+      "en": "Arcana Eden"
+    },
+    "artist": "Team Grimoire vs Sakuzyo vs Laur"
+  },
+  {
+    "id": "testify",
+    "title": {
+      "en": "Testify"
+    },
+    "artist": "void (Mournfinale) feat. 星熊南巫"
+  },
+  {
+    "id": "lovelessdress",
+    "title": {
+      "en": "Loveless Dress"
+    },
+    "artist": "かねこちはる"
+  },
+  {
+    "id": "last",
+    "title": {
+      "en": "Last"
+    },
+    "artist": "onoken"
+  },
+  {
+    "id": "lasteternity",
+    "title": {
+      "en": "Last | Eternity"
+    },
+    "artist": "onoken"
+  },
+  {
+    "id": "callimakarma",
+    "title": {
+      "en": "Callima Karma"
+    },
+    "artist": "t+pazolite vs Feryquitous"
+  },
+  {
+    "id": "kokoro",
+    "title": {
+      "en": "Heart",
+      "ja": "心"
+    },
+    "artist": "削除 (Violin : Katali)"
+  },
+  {
+    "id": "aidrew",
+    "title": {
+      "en": "Ai Drew"
+    },
+    "artist": "Feryquitous"
+  },
+  {
+    "id": "fluffyflash",
+    "title": {
+      "en": "FLUFFY FLASH"
+    },
+    "artist": "Kobaryo"
+  },
+  {
+    "id": "goodbyemerry",
+    "title": {
+      "en": "Good bye, Merry-Go-Round."
+    },
+    "artist": "Yooh"
+  },
+  {
+    "id": "lamia",
+    "title": {
+      "en": "LAMIA"
+    },
+    "artist": "BlackY"
+  },
+  {
+    "id": "freemyself",
+    "title": {
+      "en": "Free Myself"
+    },
+    "artist": "lapix feat. mami"
+  },
+  {
+    "id": "cocorocosmetic",
+    "title": {
+      "en": "cocoro*cosmetic"
+    },
+    "artist": "KOTONOHOUSE"
+  },
+  {
+    "id": "capella",
+    "title": {
+      "en": "Capella"
+    },
+    "artist": "ARForest"
+  },
+  {
+    "id": "dialnote",
+    "title": {
+      "en": "Dialnote",
+      "ja": "だいあるのーと"
+    },
+    "artist": "七草くりむ"
+  },
+  {
+    "id": "tsukinimurakumo",
+    "title": {
+      "en": "Tsuki ni Murakumo, Hana ni Kaze",
+      "ja": "月に叢雲華に風"
+    },
+    "artist": "幽閉サテライト"
+  },
+  {
+    "id": "mantis",
+    "title": {
+      "en": "MANTIS (Arcaea Ultra-Bloodrush VIP)"
+    },
+    "artist": "Akira Complex feat. kiraku"
+  },
+  {
+    "id": "worldfragments",
+    "title": {
+      "en": "World Fragments III(radio edit)"
+    },
+    "artist": "xi"
+  },
+  {
+    "id": "astrawalkthrough",
+    "title": {
+      "en": "Astra walkthrough"
+    },
+    "artist": "paraoka"
+  },
+  {
+    "id": "chronicle",
+    "title": {
+      "en": "Chronicle"
+    },
+    "artist": "Lime"
+  },
+  {
+    "id": "nullapophenia",
+    "title": {
+      "en": "NULL APOPHENIA"
+    },
+    "artist": "N²"
+  },
+  {
+    "id": "crimsonthrone",
+    "title": {
+      "en": "Crimson Throne"
+    },
+    "artist": "Dimier√Lisb"
+  },
+  {
+    "id": "manicjeer",
+    "title": {
+      "en": "Manic Jeer"
+    },
+    "artist": "ルゼ"
+  },
+  {
+    "id": "hiirogekka",
+    "title": {
+      "en": "Hiiro Gekka, Kyoushou no Zetsu (nayuta 2017 ver.)",
+      "ja": "緋色月下、狂咲ノ絶 (nayuta 2017 ver.)"
+    },
+    "artist": "nayuta x 黒鳥(EastNewSound)"
+  },
+  {
+    "id": "letsrock",
+    "title": {
+      "en": "Let's Rock (Arcaea mix)"
+    },
+    "artist": "ikaruga_nex vs FALCHiON"
+  },
+  {
+    "id": "cycles",
+    "title": {
+      "en": "CYCLES"
+    },
+    "artist": "Masayoshi Minoshima feat. 綾倉盟"
+  },
+  {
+    "id": "maxrage",
+    "title": {
+      "en": "MAXRAGE"
+    },
+    "artist": "EBIMAYO"
+  },
+  {
+    "id": "infinity",
+    "title": {
+      "en": "[X]"
+    },
+    "artist": "Blacklolita"
+  },
+  {
+    "id": "temptation",
+    "title": {
+      "en": "TEmPTaTiON"
+    },
+    "artist": "かねこちはる"
+  },
+  {
+    "id": "primitivelights",
+    "title": {
+      "en": "PRIMITIVE LIGHTS"
+    },
+    "artist": "TAG"
+  },
+  {
+    "id": "cosmopop",
+    "title": {
+      "en": "Cosmo Pop Funclub",
+      "ja": "コスモポップファンクラブ"
+    },
+    "artist": "ナユタン星人"
+  },
+  {
+    "id": "impact",
+    "title": {
+      "en": "IMPACT"
+    },
+    "artist": "USAO feat. 光吉猛修"
+  },
+  {
+    "id": "genesischunithm",
+    "title": {
+      "en": "Genesis"
+    },
+    "artist": "Morrigan feat.Lily"
+  },
+  {
+    "id": "trrricksters",
+    "title": {
+      "en": "Trrricksters!!"
+    },
+    "artist": "s-don vs. 翡乃イスカ"
+  },
+  {
+    "id": "spidersthread",
+    "title": {
+      "en": "Spider's Thread",
+      "ja": "蜘蛛の糸"
+    },
+    "artist": "きくお×cosMo＠暴走P feat.影縫英"
+  },
+  {
+    "id": "lostemotion",
+    "title": {
+      "en": "Lost Emotion feat. nomico"
+    },
+    "artist": "Masayoshi Minoshima(ALR)"
+  },
+  {
+    "id": "gimmick",
+    "title": {
+      "en": "GIMMICK"
+    },
+    "artist": "Ms.Sill"
+  },
+  {
+    "id": "thesurvivor",
+    "title": {
+      "en": "The Survivor (Game Edit)"
+    },
+    "artist": "Taishi"
+  },
+  {
+    "id": "newyorkbackraise",
+    "title": {
+      "en": "New York Back Raise"
+    },
+    "artist": "saaa + kei_iwata + stuv + わかどり"
+  },
+  {
+    "id": "galacticlove",
+    "title": {
+      "en": "Galactic Love"
+    },
+    "artist": "La prière"
+  },
+  {
+    "id": "lawlesspoint",
+    "title": {
+      "en": "Lawless Point",
+      "ja": "無法地点"
+    },
+    "artist": "La prière"
+  },
+  {
+    "id": "lostintheabyss",
+    "title": {
+      "en": "Lost in the Abyss"
+    },
+    "artist": "FELT"
+  },
+  {
+    "id": "hybris",
+    "title": {
+      "en": "Hybris (The one who shattered)",
+      "ja": "ヒュブリスの頂に聳えるのは"
+    },
+    "artist": "qfeileadh feat.のあ"
+  },
+  {
+    "id": "tothemilkyway",
+    "title": {
+      "en": "To the Milky Way"
+    },
+    "artist": "黒魔"
+  },
+  {
+    "id": "internetyamero",
+    "title": {
+      "en": "INTERNET YAMERO"
+    },
+    "artist": "Aiobahn feat. KOTOKO"
+  },
+  {
+    "id": "bulletwaiting",
+    "title": {
+      "en": "Bullet Waiting for Me (James Landino remix)"
+    },
+    "artist": "Nikki Simmons"
+  },
+  {
+    "id": "devillicsphere",
+    "title": {
+      "en": "Devillic Sphere"
+    },
+    "artist": "3R2"
+  },
+  {
+    "id": "lucidtraveler",
+    "title": {
+      "en": "Lucid Traveler"
+    },
+    "artist": "Akira Complex vs 3R2"
+  },
+  {
+    "id": "chaos",
+    "title": {
+      "en": "CHAOS"
+    },
+    "artist": "Æsir"
+  },
+  {
+    "id": "usedtobe",
+    "title": {
+      "en": "Used to be"
+    },
+    "artist": "KIVΛ"
+  },
+  {
+    "id": "ultimatetaste",
+    "title": {
+      "en": "Ultimate taste"
+    },
+    "artist": "ぱらどっと"
+  },
+  {
+    "id": "syuten",
+    "title": {
+      "en": "syūten"
+    },
+    "artist": "Apo11o\"COLLAPSAR\"program ft. 大瀬良あい"
+  },
+  {
+    "id": "drg",
+    "title": {
+      "en": "DRG"
+    },
+    "artist": "onoken"
+  },
+  {
+    "id": "nnglooms",
+    "title": {
+      "en": "99 Glooms"
+    },
+    "artist": "Sta"
+  },
+  {
+    "id": "ii",
+    "title": {
+      "en": " ͟͝͞Ⅱ́̕ ",
+      "zh-Hant": "II",
+      "zh-Hans": "II",
+      "ko": "II"
+    },
+    "artist": "Cytus"
+  },
+  {
+    "id": "magnolia",
+    "title": {
+      "en": "Magnolia"
+    },
+    "artist": "M2U Vocal by Guriri"
+  },
+  {
+    "id": "sacrifice",
+    "title": {
+      "en": "SACRIFICE feat. ayame"
+    },
+    "artist": "Masayoshi Minoshima(ALR)"
+  },
+  {
+    "id": "rgb",
+    "title": {
+      "en": "RGB"
+    },
+    "artist": "MEMODEMO X AQUASINE"
+  },
+  {
+    "id": "waitfordawn",
+    "title": {
+      "en": "WAIT FOR DAWN"
+    },
+    "artist": "U-ske feat. 棗いつき"
+  },
+  {
+    "id": "ravenspride",
+    "title": {
+      "en": "Raven's Pride",
+      "ja": "レイヴンズ・プライド"
+    },
+    "artist": "みーに feat. はらもりよしな"
+  },
+  {
+    "id": "riseoftheworld",
+    "title": {
+      "en": "Rise of the World"
+    },
+    "artist": "cosMo＠暴走P"
+  },
+  {
+    "id": "unknownlevels",
+    "title": {
+      "en": "UNKNOWN LEVELS"
+    },
+    "artist": "Yuta Imai"
+  },
+  {
+    "id": "abstrusedilemma",
+    "title": {
+      "en": "Abstruse Dilemma"
+    },
+    "artist": "Ashrount vs. 打打だいず"
+  },
+  {
+    "id": "matenrou",
+    "title": {
+      "en": "Kanjou no Matenrou ～Arr.Demetori",
+      "ja": "感情の摩天楼 ～Arr.Demetori"
+    },
+    "artist": "Demetori"
+  },
+  {
+    "id": "tothefurthestdream",
+    "title": {
+      "en": "To the Furthest Dream",
+      "ja": "彼方の夢へと"
+    },
+    "artist": "ii/night feat. 綺良雪"
+  },
+  {
+    "id": "remindthesouls",
+    "title": {
+      "en": "Remind the Souls (Short Version)"
+    },
+    "artist": "Nhato"
+  },
+  {
+    "id": "dynitikos",
+    "title": {
+      "en": "Dynitikós"
+    },
+    "artist": "Prower"
+  },
+  {
+    "id": "amekagura",
+    "title": {
+      "en": "Amekagura",
+      "ja": "雨神楽"
+    },
+    "artist": "荒谷サトル"
+  },
+  {
+    "id": "bbkkbkk",
+    "title": {
+      "en": "B.B.K.K.B.K.K."
+    },
+    "artist": "nora2r"
+  },
+  {
+    "id": "primevaltexture",
+    "title": {
+      "en": "Primeval Texture"
+    },
+    "artist": "くるぶっこちゃん"
+  },
+  {
+    "id": "technicolour",
+    "title": {
+      "en": "Technicolour"
+    },
+    "artist": "Maozon"
+  },
+  {
+    "id": "logos",
+    "title": {
+      "en": "Logos"
+    },
+    "artist": "polysha feat. 高城みよ"
+  },
+  {
+    "id": "egoeimi",
+    "title": {
+      "en": "Ego Eimi"
+    },
+    "artist": "BlackY feat. Risa Yuzuki"
+  },
+  {
+    "id": "arghena",
+    "title": {
+      "en": "Arghena"
+    },
+    "artist": "Feryquitous vs Laur"
+  }
+]
