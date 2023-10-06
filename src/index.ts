@@ -30,8 +30,8 @@ app.get("/", (req, res) => {
                 "/cropin": "return a randomly position crop of a random jacket (like \"/a guessc\" command from lxbot), default crop is 96x96",
                 "/cropin/:id": "return a randomly position crop of the id song jacket (like \"/a guessc\" command from lxbot), default crop is 96x96",
                 "/cropin/:id/:width": "return a randomly position crop of the id song jacket (like \"/a guessc\" command from lxbot) with dimension {width} x {width}",
-                "/cropin/:id/:width/:height": "return a randomly position crop of the id song jacket (like \"/a guessc\" command from lxbot), default crop is {width} x {height}",
-
+                "/cropin/:id/:width/:height": "return a randomly position crop of the id song jacket, default crop is {width} x {height}",
+                "/cropin/:id/:width/:height/:x/:y": "return a crop of the id song jacket start at position (x,y), default crop is {width} x {height}",
             }
         }
     })

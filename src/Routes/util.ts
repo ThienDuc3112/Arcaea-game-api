@@ -23,5 +23,7 @@ utilRouter.get("/crop", randomSongMiddleware, getCrop)
 utilRouter.get("/crop/:id", getSongMiddleware, getCrop)
 utilRouter.get("/crop/:id/:width", getSongMiddleware, getCrop)
 utilRouter.get("/crop/:id/:width/:height", getSongMiddleware, getCrop)
+utilRouter.get("/crop/:id/:width/:height/:x/:y", getSongMiddleware, getCrop)
+
 
 export { utilRouter }

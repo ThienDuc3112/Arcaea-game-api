@@ -61,4 +61,4 @@ const pixelated = (canvas: Canvas, pixelCount: number) => {
 }
 
 
-export { getSongCanvas, createCanvas, randomCrop, returnImage, pixelated }
+export { getSongCanvas, createCanvas, cropImage, randomCrop, returnImage, pixelated }
