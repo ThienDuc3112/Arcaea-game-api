@@ -1,7 +1,8 @@
 import express, { json } from "express"
+import cors from "cors"
 import { config } from "dotenv"
 import { utilRouter } from "./Routes/util";
-import cors from "cors"
+import { sheetRouter } from "./Routes/sheet";
 config();
 
 const app = express()
@@ -38,4 +39,5 @@ app.get("/", (req, res) => {
 })
 
 app.use("/util", utilRouter)
+app.use("/sheet", sheetRouter)
 
